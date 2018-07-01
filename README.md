@@ -32,4 +32,8 @@ npm run mock
 npm start
 ```
 ### 项目截图
-![代码结果](https://github.com/Best921/MeiTuan/blob/master/public/img/fn-throttle/fn-throttle.png)
+![首页](https://github.com/Best921/MeiTuan/blob/master/AppShowImg/首页.jpg)
+![选择城市](https://github.com/Best921/MeiTuan/blob/master/AppShowImg/选择城市.jpg)
+![登录](https://github.com/Best921/MeiTuan/blob/master/AppShowImg/登录.jpg)
+![用户中心](https://github.com/Best921/MeiTuan/blob/master/AppShowImg/用户中心.jpg)
+![商户详情](https://github.com/Best921/MeiTuan/blob/master/AppShowImg/商户详情.jpg)
