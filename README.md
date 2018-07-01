@@ -1,7 +1,7 @@
 # MeiTuan
 仿美团WebApp。
 ### 架构
-React + Router + Redux + KOA + Webpack
+&ensp;&ensp;React + Router + Redux + KOA + Webpack
 ### 实现
 前端：<br>
 &ensp;&ensp;1.用 React 组件化实现界面。<br>
@@ -31,3 +31,5 @@ npm run mock
 ```javascript
 npm start
 ```
+### 项目截图
+![代码结果](/img/fn-throttle/fn-throttle.png)
