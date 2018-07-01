@@ -32,4 +32,4 @@ npm run mock
 npm start
 ```
 ### 项目截图
-![代码结果](/img/fn-throttle/fn-throttle.png)
+![代码结果](public/img/fn-throttle/fn-throttle.png)
